@@ -1,0 +1,60 @@
+{"level":"info","message":"Cron jobs started","timestamp":"2025-04-04T14:36:00.478Z"}
+{"level":"info","message":"Starting trending repositories update","timestamp":"2025-04-04T14:36:00.479Z"}
+{"level":"info","message":"Updated 0 all repositories for daily period","timestamp":"2025-04-04T14:36:01.260Z"}
+{"level":"info","message":"Updated 0 JavaScript repositories for daily period","timestamp":"2025-04-04T14:36:02.706Z"}
+{"level":"info","message":"Updated 0 Python repositories for daily period","timestamp":"2025-04-04T14:36:04.148Z"}
+{"level":"info","message":"Updated 0 Java repositories for daily period","timestamp":"2025-04-04T14:36:05.583Z"}
+{"level":"info","message":"Cron jobs started","timestamp":"2025-04-04T14:36:06.831Z"}
+{"level":"info","message":"Starting trending repositories update","timestamp":"2025-04-04T14:36:06.832Z"}
+{"level":"info","message":"Updated 0 all repositories for daily period","timestamp":"2025-04-04T14:36:07.580Z"}
+{"level":"info","message":"Updated 0 JavaScript repositories for daily period","timestamp":"2025-04-04T14:36:09.057Z"}
+{"level":"info","message":"Updated 0 Python repositories for daily period","timestamp":"2025-04-04T14:36:10.495Z"}
+{"level":"info","message":"Updated 0 Java repositories for daily period","timestamp":"2025-04-04T14:36:11.985Z"}
+{"level":"info","message":"Updated 0 Go repositories for daily period","timestamp":"2025-04-04T14:36:13.433Z"}
+{"level":"info","message":"Updated 0 TypeScript repositories for daily period","timestamp":"2025-04-04T14:36:14.923Z"}
+{"level":"info","message":"Updated 0 C++ repositories for daily period","timestamp":"2025-04-04T14:36:16.393Z"}
+{"level":"info","message":"Updated 0 Ruby repositories for daily period","timestamp":"2025-04-04T14:36:17.948Z"}
+{"level":"info","message":"Updated 0 PHP repositories for daily period","timestamp":"2025-04-04T14:36:19.424Z"}
+{"level":"info","message":"Updated 0 C# repositories for daily period","timestamp":"2025-04-04T14:36:20.868Z"}
+{"level":"info","message":"Updated 0 Swift repositories for daily period","timestamp":"2025-04-04T14:36:22.378Z"}
+{"level":"info","message":"Updated 1 all repositories for weekly period","timestamp":"2025-04-04T14:36:23.892Z"}
+{"level":"info","message":"Updated 0 JavaScript repositories for weekly period","timestamp":"2025-04-04T14:36:25.344Z"}
+{"level":"info","message":"Updated 1 Python repositories for weekly period","timestamp":"2025-04-04T14:36:26.881Z"}
+{"level":"info","message":"Updated 0 Java repositories for weekly period","timestamp":"2025-04-04T14:36:28.332Z"}
+{"level":"info","message":"Updated 0 Go repositories for weekly period","timestamp":"2025-04-04T14:36:29.767Z"}
+{"level":"info","message":"Updated 0 TypeScript repositories for weekly period","timestamp":"2025-04-04T14:36:31.235Z"}
+{"level":"info","message":"Updated 0 C++ repositories for weekly period","timestamp":"2025-04-04T14:36:32.668Z"}
+{"level":"info","message":"Updated 0 Ruby repositories for weekly period","timestamp":"2025-04-04T14:36:34.148Z"}
+{"level":"info","message":"Updated 0 PHP repositories for weekly period","timestamp":"2025-04-04T14:36:35.607Z"}
+{"level":"info","message":"Updated 0 C# repositories for weekly period","timestamp":"2025-04-04T14:36:37.068Z"}
+{"level":"info","message":"Updated 0 Swift repositories for weekly period","timestamp":"2025-04-04T14:36:38.525Z"}
+{"code":11000,"codeName":"DuplicateKey","keyPattern":{"id":1},"keyValue":{"id":957053334},"level":"error","message":"Error updating trending repositories: E11000 duplicate key error collection: github_trending.repositories index: id_1 dup key: { id: 957053334 }","ok":0,"stack":"MongoServerError: E11000 duplicate key error collection: github_trending.repositories index: id_1 dup key: { id: 957053334 }\n    at Connection.onMessage (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n    at MessageStream.<anonymous> (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n    at MessageStream.emit (node:events:518:28)\n    at processIncomingData (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n    at MessageStream._write (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:572:12)\n    at _write (node:internal/streams/writable:501:10)\n    at Writable.write (node:internal/streams/writable:510:10)\n    at Socket.ondata (node:internal/streams/readable:1009:22)\n    at Socket.emit (node:events:518:28)","timestamp":"2025-04-04T14:36:41.108Z"}
+{"level":"info","message":"Starting trending repositories update","timestamp":"2025-04-04T15:00:00.433Z"}
+{"level":"info","message":"Updated 0 all repositories for daily period","timestamp":"2025-04-04T15:00:01.132Z"}
+{"level":"info","message":"Updated 0 JavaScript repositories for daily period","timestamp":"2025-04-04T15:00:02.604Z"}
+{"level":"info","message":"Updated 0 Python repositories for daily period","timestamp":"2025-04-04T15:00:04.036Z"}
+{"level":"info","message":"Updated 0 Java repositories for daily period","timestamp":"2025-04-04T15:00:05.517Z"}
+{"level":"info","message":"Updated 0 Go repositories for daily period","timestamp":"2025-04-04T15:00:06.983Z"}
+{"level":"info","message":"Updated 0 TypeScript repositories for daily period","timestamp":"2025-04-04T15:00:08.480Z"}
+{"level":"info","message":"Updated 0 C++ repositories for daily period","timestamp":"2025-04-04T15:00:09.938Z"}
+{"level":"info","message":"Updated 0 Ruby repositories for daily period","timestamp":"2025-04-04T15:00:11.474Z"}
+{"level":"info","message":"Updated 0 PHP repositories for daily period","timestamp":"2025-04-04T15:00:12.919Z"}
+{"level":"info","message":"Updated 0 C# repositories for daily period","timestamp":"2025-04-04T15:00:14.365Z"}
+{"level":"info","message":"Updated 0 Swift repositories for daily period","timestamp":"2025-04-04T15:00:15.797Z"}
+{"level":"info","message":"Updated 1 all repositories for weekly period","timestamp":"2025-04-04T15:00:17.312Z"}
+{"level":"info","message":"Updated 0 JavaScript repositories for weekly period","timestamp":"2025-04-04T15:00:18.746Z"}
+{"level":"info","message":"Updated 1 Python repositories for weekly period","timestamp":"2025-04-04T15:00:20.305Z"}
+{"level":"info","message":"Updated 0 Java repositories for weekly period","timestamp":"2025-04-04T15:00:21.782Z"}
+{"level":"info","message":"Updated 0 Go repositories for weekly period","timestamp":"2025-04-04T15:00:23.197Z"}
+{"level":"info","message":"Updated 0 TypeScript repositories for weekly period","timestamp":"2025-04-04T15:00:24.650Z"}
+{"level":"info","message":"Updated 0 C++ repositories for weekly period","timestamp":"2025-04-04T15:00:26.129Z"}
+{"level":"info","message":"Updated 0 Ruby repositories for weekly period","timestamp":"2025-04-04T15:00:27.562Z"}
+{"level":"info","message":"Updated 0 PHP repositories for weekly period","timestamp":"2025-04-04T15:00:29.014Z"}
+{"level":"info","message":"Updated 0 C# repositories for weekly period","timestamp":"2025-04-04T15:00:30.434Z"}
+{"level":"info","message":"Updated 0 Swift repositories for weekly period","timestamp":"2025-04-04T15:00:31.897Z"}
+{"code":11000,"codeName":"DuplicateKey","keyPattern":{"id":1},"keyValue":{"id":957053334},"level":"error","message":"Error updating trending repositories: E11000 duplicate key error collection: github_trending.repositories index: id_1 dup key: { id: 957053334 }","ok":0,"stack":"MongoServerError: E11000 duplicate key error collection: github_trending.repositories index: id_1 dup key: { id: 957053334 }\n    at Connection.onMessage (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\connection.js:202:26)\n    at MessageStream.<anonymous> (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n    at MessageStream.emit (node:events:518:28)\n    at processIncomingData (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:124:16)\n    at MessageStream._write (D:\\WorkSpace\\trae\\github_trending_back\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:572:12)\n    at _write (node:internal/streams/writable:501:10)\n    at Writable.write (node:internal/streams/writable:510:10)\n    at Socket.ondata (node:internal/streams/readable:1009:22)\n    at Socket.emit (node:events:518:28)","timestamp":"2025-04-04T15:00:34.673Z"}
+{"level":"info","message":"Cron jobs started","timestamp":"2025-04-04T15:14:55.445Z"}
+{"level":"info","message":"Starting trending repositories update","timestamp":"2025-04-04T15:14:55.446Z"}
+{"level":"info","message":"Updated 0 all repositories for daily period","timestamp":"2025-04-04T15:14:56.141Z"}
+{"level":"info","message":"Updated 0 JavaScript repositories for daily period","timestamp":"2025-04-04T15:14:57.608Z"}
+{"level":"info","message":"Updated 0 Python repositories for daily period","timestamp":"2025-04-04T15:14:59.046Z"}
